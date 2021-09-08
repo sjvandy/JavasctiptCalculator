@@ -1,0 +1,26 @@
+body{
+    color: #9D9D9D;
+    background-color: #FEFBF3;
+}
+
+h1{
+    font-size: 3rem;
+    color: #79B4B7;
+}
+#title{
+    padding-top: 3rem;
+}
+.btn-color{
+    margin: 50px;
+    color: white;
+    background-color: #79B4B7;
+}
+.inputs{
+    padding: 20px;
+}
+.input{
+    margin: 10px 0;
+}
+.btn-color:hover{
+    color: white;
+}
